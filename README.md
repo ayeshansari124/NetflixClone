@@ -1,8 +1,8 @@
-#Netflix Clone🎬
+##Netflix Clone🎬
 
 A responsive Netflix homepage clone built with **HTML** and **CSS** only. This project is a static replica of the Netflix landing page showcasing sections like trending shows, feature highlights, FAQ, and more.
 
-#Features
+##Features
 
 - Responsive layout using Flexbox and Media Queries
 - Modern UI with hover effects and transitions
@@ -10,30 +10,30 @@ A responsive Netflix homepage clone built with **HTML** and **CSS** only. This p
 - Clean, organized HTML and CSS
 - Mobile-friendly design
 
-#Screenshots
+##Screenshots
 
 ![Netflix Clone Screenshot](images/Screenshot1.png)
 ![Netflix Clone Screenshot](images/Screenshot2.png)
 ![Netflix Clone Screenshot](images/Screenshot3.png)
 ![Netflix Clone Screenshot](images/Screenshot4.png)
 
-#Deployed
+##Deployed
 https://fantastic-starship-abfd14.netlify.app/
 
-#Tech Used
+##Tech Used
 
 - HTML5
 - CSS3
 
-#Responsive
+##Responsive
 
 The site adapts to various screen sizes (tested on mobile, tablet, and desktop).
 
-#Acknowledgements
+##Acknowledgements
 
 Inspired by the original Netflix landing page UI.
 
-#Contact
+##Contact
 
 Feel free to connect with the developer on [GitHub](https://github.com/Ayeshaali124)
 
