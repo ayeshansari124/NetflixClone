@@ -17,12 +17,8 @@ A responsive Netflix homepage clone built with **HTML** and **CSS** only. This p
 ![Netflix Clone Screenshot](images/Screenshot3.png)
 ![Netflix Clone Screenshot](images/Screenshot4.png)
 
-
-
-#How to Run
-
-1. Clone or download this repository.
-2. Open `index.html` in your browser.
+#Deployed
+https://fantastic-starship-abfd14.netlify.app/
 
 #Tech Used
 
