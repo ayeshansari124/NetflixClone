@@ -1,6 +1,19 @@
- ## Netflix Clone🎬
+# Netflix Clone🎬
 
 A responsive Netflix homepage clone built with **HTML** and **CSS** only. This project is a static replica of the Netflix landing page showcasing sections like trending shows, feature highlights, FAQ, and more.
+
+# Summary
+
+This marks my First repo
+- I created this using HTML and CSS.
+- All the code is completely and rawly written by me.
+- The learning from this project is about the structure of an HTML file the uses of various properties of CSS.
+- Suggestion and contributions are most welcomed.
+- A small step towards building hopefully a good big project in the future.
+
+# Deployement
+
+https://aayesshaa.netlify.app/
 
 ## Features
 
@@ -16,9 +29,6 @@ A responsive Netflix homepage clone built with **HTML** and **CSS** only. This p
 ![Netflix Clone Screenshot](images/Screenshot2.png)
 ![Netflix Clone Screenshot](images/Screenshot3.png)
 ![Netflix Clone Screenshot](images/Screenshot4.png)
-
-## Deployed
-https://fantastic-starship-abfd14.netlify.app/
 
 ## Tech Used
 
