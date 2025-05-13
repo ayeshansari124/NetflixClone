@@ -6,6 +6,7 @@ This marks my First repo
 - I created this using HTML and CSS.
 - All the code is completely and rawly written by me.
 - The learning from this project is about the structure of an HTML file the uses of various properties of CSS.
+- This is inspired by the **2025 version** of netflix landing page. 
 - Suggestion and contributions are most welcomed.
 - A small step towards building hopefully a good big project in the future.
 
