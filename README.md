@@ -33,12 +33,11 @@ This marks my **first repository**:
 
 ---
 
-## 🖼 Screenshots
-
-| Mobile | Tablet | Desktop |
-|--------|--------|---------|
-| ![Screenshot 1](images/Screenshot1.png) | ![Screenshot 2](images/Screenshot2.png) | ![Screenshot 3](images/Screenshot3.png) |
-| ![Screenshot 4](images/Screenshot4.png) |  |  |
+## Screenshots
+![Netflix Clone Screenshot](images/Screenshot1.png)
+![Netflix Clone Screenshot](images/Screenshot2.png)
+![Netflix Clone Screenshot](images/Screenshot3.png)
+![Netflix Clone Screenshot](images/Screenshot4.png)
 
 ---
 
