@@ -10,7 +10,7 @@ This marks my First repo
 - Suggestion and contributions are most welcomed.
 - A small step towards building hopefully a good big project in the future.
 
-# Deployement
+# Deployment
 https://aayesshaa.netlify.app/
 
 ## Features
