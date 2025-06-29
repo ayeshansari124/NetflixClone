@@ -300,3 +300,24 @@ p {
     width: 95vw;
   }
 }
+
+@media screen and (max-width: 500px) {
+  nav .buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  .hero-btn {
+    flex-direction: column;
+  }
+
+  .hero-btn input,
+  .hero-btn button {
+    width: 90%;
+  }
+}
