@@ -7,11 +7,11 @@ This project replicates the modern Netflix landing page and demonstrates layout 
 
 ## 📌 Summary
 
-- Built with **HTML** and **Tailwind CSS**
-- Fully responsive and cleanly structured
-- Inspired by the **2025 Netflix UI design**
-- Includes key sections: Hero, Trending Now, Feature Highlights, FAQs, Footer
-- Great practice for real-world layout cloning and Tailwind fundamentals
+- Built with **HTML** and **Tailwind CSS**.
+- Fully responsive and cleanly structured.
+- Inspired by the **2025 Netflix UI design**.
+- Includes key sections: Hero, Trending Now, Feature Highlights, FAQs, Footer.
+- Great practice for real-world layout cloning and Tailwind fundamentals.
 - Open to suggestions and contributions!
 
 ---
@@ -24,22 +24,22 @@ This project replicates the modern Netflix landing page and demonstrates layout 
 
 ## ⚙️ Features
 
-- ✅ **Responsive layout** using Tailwind’s utility classes and media queries
-- 💅 **Modern design** with hover states, animations, and transitions
+- ✅ **Responsive layout** using Tailwind’s utility classes and media queries.
+- 💅 **Modern design** with hover states, animations, and transitions.
 - 📺 Key sections:
-  - Hero banner with call to action
-  - Trending Now (image grid)
-  - Feature Highlights (card layout)
-  - FAQ (collapsible style-ready)
-  - Footer with legal and contact links
-- 🧼 **Clean, organized** and beginner-friendly code
+  - Hero banner with call to action.
+  - Trending Now (image grid).
+  - Feature Highlights (card layout).
+  - FAQ (collapsible style-ready).
+  - Footer with legal and contact links.
+- 🧼 **Clean, organized** and beginner-friendly code.
 
 ---
 
 ## 🛠 Technologies Used
 
-- **HTML5** – Semantic structure, accessibility
-- **Tailwind CSS** – Utility-first styling, responsive design, transitions
+- **HTML5** – Semantic structure, accessibility.
+- **Tailwind CSS** – Utility-first styling, responsive design, transitions.
 
 ---
 
@@ -55,8 +55,8 @@ This project replicates the modern Netflix landing page and demonstrates layout 
 
 ## 🙏 Acknowledgements
 
-- UI inspired by the **official Netflix India 2025 landing page**
-- Built as part of personal learning and frontend UI/UX improvement
+- UI inspired by the **official Netflix India 2025 landing page**.
+- Built as part of personal learning and frontend UI/UX improvement.
 
 ---
 
