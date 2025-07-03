@@ -1,64 +1,70 @@
-# 🎬 Netflix Clone
+# 🎬 Netflix Clone (2025)
 
-A responsive **Netflix homepage clone** built using **HTML** and **CSS** only.  
-This project replicates the landing page of Netflix, showcasing sections like trending shows, feature highlights, FAQs, and more.
+A responsive **Netflix homepage clone** built using **HTML** and **Tailwind CSS**.  
+This project replicates the modern Netflix landing page and demonstrates layout building, responsive design, and component-based styling using utility-first CSS.
 
 ---
 
 ## 📌 Summary
 
-This marks my **first repository**:
-
-- Created using **pure HTML and CSS**
-- Learned the structure of an HTML document and how to use various **CSS properties**
-- Inspired by the **2025 version** of the Netflix landing page
-- **Suggestions and contributions are most welcome!**
-- A small step toward building larger and more complex projects in the future
+- Built with **HTML** and **Tailwind CSS**
+- Fully responsive and cleanly structured
+- Inspired by the **2025 Netflix UI design**
+- Includes key sections: Hero, Trending Now, Feature Highlights, FAQs, Footer
+- Great practice for real-world layout cloning and Tailwind fundamentals
+- Open to suggestions and contributions!
 
 ---
 
-## 🚀 Deployment
+## 🚀 Live Demo
 
-🔗 [Live Demo on Netlify](https://aayesshaa.netlify.app/)
+🔗 [View on Netlify](https://aayesshaa.netlify.app/)
 
 ---
 
 ## ⚙️ Features
 
-- 📱 **Responsive layout** using Flexbox and media queries
-- ✨ **Modern UI** with hover effects and smooth transitions
-- 📺 Sections include: Hero banner, Trending shows, Feature highlights, FAQ, and Footer
-- 🧼 Clean and organized HTML/CSS codebase
-- ✅ Mobile, tablet, and desktop friendly
-
----
-
-## Screenshots
-![Netflix Clone Screenshot](images/Screenshot1.png)
-![Netflix Clone Screenshot](images/Screenshot2.png)
-![Netflix Clone Screenshot](images/Screenshot3.png)
-![Netflix Clone Screenshot](images/Screenshot4.png)
+- ✅ **Responsive layout** using Tailwind’s utility classes and media queries
+- 💅 **Modern design** with hover states, animations, and transitions
+- 📺 Key sections:
+  - Hero banner with call to action
+  - Trending Now (image grid)
+  - Feature Highlights (card layout)
+  - FAQ (collapsible style-ready)
+  - Footer with legal and contact links
+- 🧼 **Clean, organized** and beginner-friendly code
 
 ---
 
 ## 🛠 Technologies Used
 
-- **HTML5** – Semantic structure and layout
-- **CSS3** – Styling, layout, animations, and responsive design
+- **HTML5** – Semantic structure, accessibility
+- **Tailwind CSS** – Utility-first styling, responsive design, transitions
 
 ---
 
 ## 📱 Responsiveness
 
-- Fully responsive across different screen sizes
-- Tested on mobile, tablet, and desktop devices
+- Optimized for:
+  - 📱 Mobile Devices
+  - 💻 Tablets
+  - 🖥️ Desktop screens
+- Utilizes Tailwind’s responsive breakpoints: `sm`, `md`, `lg`, `xl`
 
 ---
 
 ## 🙏 Acknowledgements
 
-- Inspired by the **official Netflix landing page UI**
+- UI inspired by the **official Netflix India 2025 landing page**
+- Built as part of personal learning and frontend UI/UX improvement
 
 ---
 
-&copy; 2025 **Netflix Clone** – Built with ❤️ for educational purposes only.
+## 📌 Disclaimer
+
+This project is **not affiliated with or endorsed by Netflix**.  
+It is built purely for **educational and portfolio** purposes.
+
+---
+
+&copy; 2025 **Netflix Clone** – Built with ❤️ by Ayesha.
