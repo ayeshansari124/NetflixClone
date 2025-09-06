@@ -1,126 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Netflix Clone</title>
-     <link href="./css/output.css" rel="stylesheet">
+    <title>Vite + React</title>
   </head>
-  <body class="bg-black text-white font-mono">
-    <!-- Hero Section -->
-    <div class="relative bg-center bg-no-repeat bg-cover min-h-[644px]" style="background-image: url('./images/bg.jpg');">
-      <nav class="flex justify-between items-center w-[90vw] mx-auto py-4 fixed z-50">
-        <div class="h-9 z-10">
-          <img src="images/logo.png" alt="Netflix Logo" class="h-full" />
-        </div>
-        <div class="flex gap-3 z-10">
-          <button class="px-4 py-2 bg-red-700 text-white font-bold border border-white rounded hover:bg-red-900 hover:scale-105 transition">English</button>
-          <button class="px-4 py-2 bg-green-600 text-white font-bold border border-white rounded hover:bg-green-900 hover:scale-105 transition">Sign In</button>
-        </div>
-      </nav>
-
-      <div class="flex flex-col items-center justify-center text-center gap-4 min-h-[70vh] px-4 pt-32">
-        <div class="text-4xl md:text-5xl font-bold">Unlimited movies, TV shows and more</div>
-        <div class="text-3xl font-bold">Starts at ₹149. Cancel anytime.</div>
-        <div class="text-2xl font-bold">Ready to watch? Enter your email to create or restart your membership.</div>
-
-        <div class="flex flex-wrap gap-3 justify-center mt-3">
-          <input type="email" placeholder="Enter your email" class="px-12 py-2 text-lg rounded border-2 border-black text-black w-[300px]" />
-          <button class="px-5 py-2 bg-green-600 text-white text-lg font-bold rounded border border-white hover:bg-green-900 hover:scale-105 transition">Get Started</button>
-        </div>
-      </div>
-    </div>
-
-    <div class="h-1 bg-neutral-600 my-6"></div>
-
-    <!-- Trending Section -->
-    <section class="w-[90vw] mx-auto">
-      <div class="text-2xl md:text-3xl font-light p-5">Trending Now</div>
-      <div class="flex flex-wrap justify-center items-center gap-5">
-        <img src="images/1.webp" alt="Chhaava" class="hover:scale-110 hover:border-2 hover:border-white transition-all duration-300 w-48" />
-        <img src="images/2.webp" alt="Pushpa" class="hover:scale-110 hover:border-2 hover:border-white transition-all duration-300 w-48" />
-        <img src="images/3.webp" alt="Jewel Thief" class="hover:scale-110 hover:border-2 hover:border-white transition-all duration-300 w-48" />
-        <img src="images/4.webp" alt="Deva" class="hover:scale-110 hover:border-2 hover:border-white transition-all duration-300 w-48" />
-        <img src="images/5.webp" alt="Court" class="hover:scale-110 hover:border-2 hover:border-white transition-all duration-300 w-48" />
-      </div>
-    </section>
-
-    <div class="h-1 bg-neutral-600 my-6"></div>
-
-    <!-- Reasons Section -->
-    <section class="w-[90vw] mx-auto">
-      <div class="text-2xl md:text-3xl font-light p-5">More Reasons To Join</div>
-      <div class="flex flex-wrap justify-center gap-8 py-5">
-        <div class="bg-purple-950 p-5 rounded-xl shadow-inner w-64 text-center transition-all duration-300">
-          <div class="text-xl font-bold mb-3">Enjoy on your TV</div>
-          <div class="text-lg">Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.</div>
-        </div>
-        <div class="bg-purple-950 p-5 rounded-xl shadow-inner w-64 text-center">
-          <div class="text-xl font-bold mb-3">Download your shows to watch offline</div>
-          <div class="text-lg">Save your favourites easily and always have something to watch.</div>
-        </div>
-        <div class="bg-purple-950 p-5 rounded-xl shadow-inner w-64 text-center">
-          <div class="text-xl font-bold mb-3">Watch everywhere</div>
-          <div class="text-lg">Stream unlimited movies and TV shows on your phone, tablet, laptop and TV.</div>
-        </div>
-        <div class="bg-purple-950 p-5 rounded-xl shadow-inner w-64 text-center">
-          <div class="text-xl font-bold mb-3">Create profiles for kids</div>
-          <div class="text-lg">Send kids on adventures with their favourite characters in a space made just for them — free with your membership.</div>
-        </div>
-      </div>
-    </section>
-
-    <div class="h-1 bg-neutral-600 my-6"></div>
-
-    <!-- FAQ -->
-    <section class="w-[90vw] mx-auto px-4 md:px-0">
-      <div class="text-2xl md:text-3xl font-light p-5">Frequently Asked Questions</div>
-      <div class="flex flex-col gap-4">
-        <div class="bg-neutral-800 text-lg text-center rounded-md py-4 px-4 hover:bg-neutral-700 transition w-[95%] md:w-[60vw] mx-auto">What is Netflix?</div>
-        <div class="bg-neutral-800 text-lg text-center rounded-md py-4 px-4 hover:bg-neutral-700 transition w-[95%] md:w-[60vw] mx-auto">How much does Netflix cost?</div>
-        <div class="bg-neutral-800 text-lg text-center rounded-md py-4 px-4 hover:bg-neutral-700 transition w-[95%] md:w-[60vw] mx-auto">Where can I watch?</div>
-        <div class="bg-neutral-800 text-lg text-center rounded-md py-4 px-4 hover:bg-neutral-700 transition w-[95%] md:w-[60vw] mx-auto">How do I cancel?</div>
-        <div class="bg-neutral-800 text-lg text-center rounded-md py-4 px-4 hover:bg-neutral-700 transition w-[95%] md:w-[60vw] mx-auto">What can I watch on Netflix?</div>
-        <div class="bg-neutral-800 text-lg text-center rounded-md py-4 px-4 hover:bg-neutral-700 transition w-[95%] md:w-[60vw] mx-auto">Is Netflix good for kids?</div>
-      </div>
-    </section>
-
-    <div class="h-1 bg-neutral-600 my-6"></div>
-
-    <!-- Pre-Footer -->
-    <div class="min-h-[30vh] flex flex-col justify-center items-center gap-4 text-center">
-      <div class="text-2xl font-bold">Ready to watch? Enter your email to create or restart your membership.</div>
-      <div class="flex flex-wrap gap-3 justify-center mt-3">
-        <input type="email" placeholder="Enter your email" class="px-12 py-2 text-lg rounded border-2 border-black text-black w-[300px]" />
-        <button class="px-5 py-2 bg-green-600 text-white text-lg font-bold rounded border border-white hover:bg-green-900 hover:scale-105 transition">Get Started</button>
-      </div>
-    </div>
-
-    <div class="h-1 bg-neutral-600 my-6"></div>
-
-    <!-- Footer -->
-    <footer class="w-[90vw] mx-auto">
-      <div class="text-xl font-semibold">Questions? Call 000-800-919-1743</div>
-      <div class="grid grid-cols-2 md:grid-cols-3 gap-5 mt-6 text-base">
-        <div>FAQ</div>
-        <div>Investor Relations</div>
-        <div>Privacy</div>
-        <div>Speed Test</div>
-        <div>Help Centre</div>
-        <div>Jobs</div>
-        <div>Cookie Preferences</div>
-        <div>Legal Notices</div>
-        <div>Account</div>
-        <div>Ways to Watch</div>
-        <div>Corporate Information</div>
-        <div>Only on Netflix</div>
-        <div>Media Centre</div>
-        <div>Terms of Use</div>
-        <div>Contact Us</div>
-      </div>
-      <div class="h-[20vh] flex items-center justify-center text-center mt-6">
-        <p class="text-lg font-bold">&copy; 2025 Netflix India. Built with ❤️ by Netflix India. All rights reserved.</p>
-      </div>
-    </footer>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
