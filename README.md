@@ -1,8 +1,8 @@
-# 🎬 Netflix UI Clone
+# 🎬 NextFlix- Netflix UI Clone
 
 A modern Netflix-inspired landing page clone built using **Next.js, React, TypeScript, and Tailwind CSS**.
 
-This project originally started as a basic **HTML/CSS Netflix UI clone** and was later fully refactored into a modern React-based application using the Next.js App Router architecture.
+NextFlix originally started as a basic **HTML/CSS Netflix UI clone** and was later fully refactored into a modern React-based application using the Next.js App Router architecture.
 
 ## 🌐 Live Demo
 
