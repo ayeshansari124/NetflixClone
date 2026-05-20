@@ -36,8 +36,7 @@ https://netflix-clone-cyan-xi-71.vercel.app/
 
 ## 📸 Screenshots
 
-![alt text](<Screenshot 2026-05-21 011535.png>) ![alt text](<Screenshot 2026-05-21 011514.png>) ![alt text](<Screenshot 2026-05-21 011526.png>)
-
+c:\Users\ayesh\OneDrive\Pictures\Screenshots\Screenshot 2026-05-21 012528.png c:\Users\ayesh\OneDrive\Pictures\Screenshots\Screenshot 2026-05-21 012425.png c:\Users\ayesh\OneDrive\Pictures\Screenshots\Screenshot 2026-05-21 012455.png c:\Users\ayesh\OneDrive\Pictures\Screenshots\Screenshot 2026-05-21 012506.png c:\Users\ayesh\OneDrive\Pictures\Screenshots\Screenshot 2026-05-21 012517.png
 ---
 
 ## 📈 Project Evolution
